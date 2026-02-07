@@ -18,7 +18,7 @@ fi
 
 echo "📥 Downloading ReverseTunnel..."
 
-RAW_URL="https://raw.githubusercontent.com/skyboy610/polintunnel/main/reversetunnel.sh"
+RAW_URL="https://raw.githubusercontent.com/skyboy610/reverse/reversetunnel.sh"
 INSTALL_PATH="/usr/local/bin/reversetunnel"
 
 # Try wget first, then curl
